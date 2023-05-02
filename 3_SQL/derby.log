@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 02 12:14:02 EEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0187-dbbd-802a-00001c69d1e8 
+on database directory /Users/mac/IdeaProjects/TestSpark3/3_SQL/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@711f9c0 
+Loaded from file:/usr/local/Cellar/apache-spark/3.3.2/libexec/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_291-b10
+user.dir=/Users/mac/IdeaProjects/TestSpark3/3_SQL
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
